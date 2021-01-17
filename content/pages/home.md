@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: Kávé Krónikás
-featuredImage: https://ucarecdn.com/cb8d8588-389b-40c9-b240-13f2cbbdd965/
+featuredImage: https://ucarecdn.com/de6faef8-7ee2-4bbf-8645-0dc37c63d0f4/
 subtitle: üdvözöllek a Kávé Krónikás világában, nézz szét a cikkek, videók és
   képek között, ha többet akarsz tudni mindenről, ami a kávéhoz kapcsolódik
 meta:
