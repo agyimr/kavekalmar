@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact
 title: Ki írja a krónikákat?
-featuredImage: https://ucarecdn.com/afb41052-c00d-4382-ad0d-9f577faaa42b/
+featuredImage: https://ucarecdn.com/a5385e0b-817b-4fc6-9b6a-293969f72627/-/crop/4175x4246/21,429/-/preview/
 subtitle: "## ***Miben segíthetek?***"
 address: Budapest
 phone: +3620/3376261
