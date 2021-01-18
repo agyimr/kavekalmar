@@ -4,8 +4,6 @@ import { StaticQuery, graphql } from 'gatsby'
 import Meta from './Meta'
 import Nav from './Nav'
 import Footer from './Footer'
-import GithubCorner from './GithubCorner'
-
 import 'modern-normalize/modern-normalize.css'
 import './globalStyles.css'
 
@@ -23,7 +21,7 @@ export default ({ children, meta, title }) => {
             }
           }
           allPosts: allMarkdownRemark(
-            filter: { fields: { contentType: { eq: "postCategories" } } }
+            filter: { fields: { contentType: { eq: "kategoriak" } } }
             sort: { order: DESC, fields: [frontmatter___date] }
           ) {
             edges {
@@ -72,9 +70,7 @@ export default ({ children, meta, title }) => {
               {...meta}
               {...data.settingsYaml}
             />
-
-            <GithubCorner url="https://github.com/thriveweb/yellowcake" />
-
+            
             <Nav subNav={subNav} />
 
             <Fragment>{children}</Fragment>

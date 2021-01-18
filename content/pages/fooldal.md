@@ -6,6 +6,9 @@ featuredImage: https://ucarecdn.com/de6faef8-7ee2-4bbf-8645-0dc37c63d0f4/
 subtitle: "#### ***üdvözöllek a Kávé Krónikás világában, nézz szét a cikkek,
   videók és képek között, ha többet akarsz tudni mindenről, ami a kávéhoz
   kapcsolódik***"
+video: https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/
+videoPoster: https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/
+videoTitle: Üdvözöllek a Kávé Krónikás világában
 meta:
   description: This is a meta description.
   title: kávékrónikás

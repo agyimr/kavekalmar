@@ -1,22 +1,12 @@
 ---
 template: ContactPage
-slug: contact
+slug: kapcsolat
 title: Ki írja a krónikákat?
 featuredImage: https://ucarecdn.com/e79034b0-bdd3-4c70-abac-2844b31fc777/
 subtitle: "## ***Miben segíthetek?***"
 address: Budapest
 phone: +3620/3376261
 email: kavekronikas@gmail.com
-locations:
-  - lat: "-27.9654732"
-    lng: "153.2432449"
-    mapLink: ""
-  - mapLink: ""
-    lat: ""
-    lng: ""
-  - mapLink: ""
-    lat: ""
-    lng: ""
 meta:
   description: This is a meta description.
   title: Kapcsolat
