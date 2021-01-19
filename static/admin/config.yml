@@ -17,13 +17,13 @@ media_library:
 
 collections: # A list of collections the CMS should be able to edit
   - name: 'pages'
-    label: 'Page'
+    label: 'Oldal'
     delete: false # Prevent users from deleting documents in this collection
     editor:
       preview: true
     files:
       - file: 'content/pages/contact.md'
-        label: 'Contact Page'
+        label: 'Kapcsolat'
         name: 'contact-page'
         fields:
           - {
@@ -99,7 +99,7 @@ collections: # A list of collections the CMS should be able to edit
                 }
 
       - file: 'content/pages/blog.md'
-        label: 'Blog Page'
+        label: 'Blog'
         name: 'blog-page'
         fields:
           - {
@@ -138,7 +138,7 @@ collections: # A list of collections the CMS should be able to edit
                 }
 
       - file: 'content/pages/components.md'
-        label: 'Components Page'
+        label: 'Galéria'
         name: 'components-page'
         fields:
           - {
@@ -195,7 +195,7 @@ collections: # A list of collections the CMS should be able to edit
                 }
 
       - file: 'content/pages/home.md'
-        label: 'Home Page'
+        label: 'Főoldal'
         name: 'home-page'
         fields:
           - {
@@ -241,46 +241,46 @@ collections: # A list of collections the CMS should be able to edit
                   required: false,
                 }
 
-  - name: infoPages
-    label: Info Page
-    editor:
-      preview: true
-    folder: content/infoPages
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    create: true # Allow users to create new documents in this collection
-    fields:
-      - {
-          label: Template,
-          name: template,
-          widget: hidden,
-          default: DefaultPage,
-        }
-      - { label: Slug, name: slug, widget: string }
-      - { label: Title, name: title, widget: string }
-      - { label: Featured Image, name: featuredImage, widget: image }
-      - { label: Body, name: body, widget: markdown }
-      - label: 'Meta'
-        required: false
-        name: 'meta'
-        widget: 'object'
-        fields:
-          - { label: Title, name: title, widget: string, required: false }
-          - {
-              label: Description,
-              name: description,
-              widget: text,
-              required: false,
-            }
-          - {
-              label: Canonical Link,
-              name: canonicalLink,
-              widget: string,
-              required: false,
-            }
-          - { label: Noindex, name: noindex, widget: boolean, required: false }
+  # - name: infoPages
+  #   label: Info Page
+  #   editor:
+  #     preview: true
+  #   folder: content/infoPages
+  #   slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+  #   create: true # Allow users to create new documents in this collection
+  #   fields:
+  #     - {
+  #         label: Template,
+  #         name: template,
+  #         widget: hidden,
+  #         default: DefaultPage,
+  #       }
+  #     - { label: Slug, name: slug, widget: string }
+  #     - { label: Title, name: title, widget: string }
+  #     - { label: Featured Image, name: featuredImage, widget: image }
+  #     - { label: Body, name: body, widget: markdown }
+  #     - label: 'Meta'
+  #       required: false
+  #       name: 'meta'
+  #       widget: 'object'
+  #       fields:
+  #         - { label: Title, name: title, widget: string, required: false }
+  #         - {
+  #             label: Description,
+  #             name: description,
+  #             widget: text,
+  #             required: false,
+  #           }
+  #         - {
+  #             label: Canonical Link,
+  #             name: canonicalLink,
+  #             widget: string,
+  #             required: false,
+  #           }
+  #         - { label: Noindex, name: noindex, widget: boolean, required: false }
 
   - name: posts
-    label: Post
+    label: Blog Poszt
     editor:
       preview: true
     folder: content/posts
@@ -335,10 +335,10 @@ collections: # A list of collections the CMS should be able to edit
           - { label: Noindex, name: noindex, widget: boolean, required: false }
 
   - name: postCategories
-    label: Post Category
+    label: Poszt Kategória
     editor:
       preview: false
-    folder: content/postCategories
+    folder: content/kategoriak
     slug: '{{slug}}'
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
@@ -372,13 +372,13 @@ collections: # A list of collections the CMS should be able to edit
           - { label: Noindex, name: noindex, widget: boolean, required: false }
 
   - name: 'settings'
-    label: 'Settings'
+    label: 'Beállítások'
     delete: false # Prevent users from deleting documents in this collection
     editor:
       preview: false
     files:
       - file: 'content/settings/global.yml'
-        label: 'Global Settings'
+        label: 'Globális Beállítások'
         name: 'global-settings'
         fields:
           - { label: Site Title, name: siteTitle, widget: string }
