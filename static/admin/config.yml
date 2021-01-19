@@ -22,7 +22,7 @@ collections: # A list of collections the CMS should be able to edit
     editor:
       preview: true
     files:
-      - file: 'content/pages/contact.md'
+      - file: 'content/pages/kapcsolat.md'
         label: 'Kapcsolat'
         name: 'contact-page'
         fields:
@@ -137,7 +137,7 @@ collections: # A list of collections the CMS should be able to edit
                   required: false,
                 }
 
-      - file: 'content/pages/components.md'
+      - file: 'content/pages/galeria.md'
         label: 'Galéria'
         name: 'components-page'
         fields:
@@ -194,7 +194,7 @@ collections: # A list of collections the CMS should be able to edit
                   required: false,
                 }
 
-      - file: 'content/pages/home.md'
+      - file: 'content/pages/fooldal.md'
         label: 'Főoldal'
         name: 'home-page'
         fields:
