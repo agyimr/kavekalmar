@@ -13,14 +13,13 @@ subtitle: "#### ***üdvözöllek a Kávé Krónikás világában, nézz szét a 
   kapcsolódik***"
 videoTitle: Üdvözöllek a Kávé Krónikás világában
 ---
-***Mit találhattok az oldalon?***
+# ***Mit találhattok az oldalon?***
 
 * **cikkek**, írások a kávé történelméről, szakmájáról, a növény botanikájától kezdve egész az újhullámos technikákig
 * **videótartalmak**, azoknak, akik gyors és egyszerű recepteket keresnek és azoknak is, akik mélyebben elmerülnének egy-egy szakmai témában, vendégekkel
 * személyre szóló **tanácsadás** - szolgáltatásunk elérhető, előre egyeztetés alapján 
 
   * video tanácsadás
-* videós workshop
-* személyes workshop
+* **minőségi szemes kávé kiszállítás** - keress a megadott elérhetőségeken
 
-kövessetek minket és gyertek velünk a következő kalandunkra, melyről mindig itt a honlapon számolunk be
+Kövess a FB oldalon is, ahol a legújabb tartalmakat mindig megosztjuk!
