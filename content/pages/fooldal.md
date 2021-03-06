@@ -2,8 +2,8 @@
 template: HomePage
 slug: ""
 title: Kávé Krónikás
-video: https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/
-videoPoster: https://ucarecdn.com/7addaa90-cb98-4cf8-93a4-3ab616c1f89e/
+video: https://ucarecdn.com/f6285c29-86f8-4887-beea-6aa4f38e6ecf/
+videoPoster: https://ucarecdn.com/daedd884-68a9-4a3f-b277-ec30c774c93f/
 meta:
   description: This is a meta description.
   title: kávékrónikás
