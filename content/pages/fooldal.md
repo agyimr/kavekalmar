@@ -22,4 +22,4 @@ videoTitle: Üdvözöllek a Kávé Krónikás világában
   * video tanácsadás
 * **minőségi szemes kávé kiszállítás** - keress a megadott elérhetőségeken
 
-Kövess a FB oldalon is, ahol a legújabb tartalmakat mindig megosztjuk!
+Kövess a FB oldalon is, ahol a legújabb tartalmakat mindig megosztom!
