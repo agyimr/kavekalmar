@@ -13,14 +13,25 @@ meta:
 ---
 # A nevem Váczi Jezsó Péter
 
+## **Hogyan indult a szerelem?**
+
 2013-ban szerettem bele a kávé világába, amikor egy rosszul elkészített cappuccino arra ösztönzött, hogy több figyelmet szánjak ennek az italnak a megismerésére.
 
-Azóta tart a szerelem és rengeteg újabb arcát mutatta meg nekem a kávé. Azt tapasztalom, hogy ez is egy olyan "tudomány", amit egy életen át lehet tanulmányozni és új területeket felfedezni benne. 
+Azóta tart a szerelem és rengeteg újabb arcát mutatta meg nekem a kávé. \
+Azt tapasztalom, hogy ez is egy olyan "tudomány", amit egy életen át lehet tanulmányozni és új területeket felfedezni benne. 
 
-Sok helyen dolgoztam, kisebb irodai büfék, nagyobb speciality kávézók, pörkölők és rendezvények. Mindenhol azt tapasztaltam, hogy az embereknek a kávé egy igényelt állandó, ami bekeretezi a napjukat. Szeretném ezt a lelkesedést átadni minél több embernek, megmutatni, hogy milyen színes a világunk. A gasztronómia közel áll hozzám, így született meg a Kávé Krónikás karaktere is. 
+## **Milyen út vezetett a Krónikás születéséig?**
 
-Arról szeretnék krónikálni nektek, hogy hol, mikor, milyen tapasztalatot gyűjtöttem, amit a kávé újtán szereztem és megosztani a pillanatokat. Ezzel csempészni egy kávészünetnyi felüdült pillanatot a mindennapokba is.
+Dolgoztam: büfében, olaszos kávézóban, specialityben, kávés "food-track"-en, rendezvényeken
 
-Kalandra fel és a kávé legyen velünk! :) 
+Mindenhol azt tapasztaltam, hogy az emberek nem csak a kávét szeretik, hanem a ceremóniáját, a találkozást, a kikapcsolást, amit abban a pár percben adhat nekik. Egy jó sztori, egy érdekes tény vagy csak egy mosoly és persze egy gondosan elkészített kávé. Ez elég az örömteli pillanatokhoz. 
 
-kövess a fb és az instagram oldalon is, ha látni akarod, merre járok és mit találok...
+A Kávé Krónikás olyan karakter, aki meg akarja adni ezt a pillanatot a hozzá fordulóknak. Egy jó kávéval vagy pár jó sztorival, tanáccsal.
+
+## **Mi a Kávé Krónikás küldetése?**
+
+A jó kávé titkán kívül mesélek a **történetéről**, a különböző kávés **szokásokról**, a rengeteg **fajtáról** és **feldolgozásról, elkészítésről.**
+
+**Megmutatom**, hány módon lehet elkészíteni egy jó kávét.
+
+Szívesen adok **tanácsot** akár otthoni **kávékészítésről** van szó, akár nagyobb terveid vannak.
